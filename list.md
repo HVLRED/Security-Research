@@ -5,4 +5,5 @@
 ### 2. **CVE-2023-24693**
        Valiant Communications GPS NTP Server OS Command Injection Vulnerability leading to Remote Code Execution (RCE) - Authenticated, Root Level
        
-### 3. XXXXX: XML External Entity Injection (XXE Injection)
+### 3. **CVE-2023-33407**
+       ThingsBoard IoT Platform - XML External Entity Injection (XXE Injection)
